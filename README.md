@@ -1,5 +1,5 @@
 ## Server
-- running on :
+- running on : https://mkaybutters.github.io/vg-stats/
 
 ## Clients
 - Jupyterlab
@@ -7,4 +7,4 @@
 
 ## Pull Request
 
-PR @ : 
+PR @ : https://github.com/MkayButters/vg-stats/pull/1
